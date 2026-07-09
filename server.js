@@ -41,7 +41,7 @@ app.get("/v1/metadata", (req, res) => {
         team_members: ["Vedant Vashistha"],
         model: "Rule Based",
         approach: "Simple rule-based responder using in-memory storage",
-        contact_email: "vedant@example.com",
+        contact_email: "vedant.vashistha1031@gmail.com",
         version: "1.0.0",
         submitted_at: new Date().toISOString()
     });
